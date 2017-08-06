@@ -2,5 +2,12 @@ body {
   background-color: pink;
 }
 h1 {
-  color: pink;
+  color: white;
+  text-align: center;
 }
+p {
+  text-align: center;
+}
+img {
+  height: 50px;
+  
