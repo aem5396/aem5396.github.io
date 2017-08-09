@@ -5,11 +5,12 @@ h1 {
   color: white;
   text-align: center;
   font-family: Georgia;
-  font-size: 600;
+  font-size: 300%;
 }
 p {
   text-align: center;
   font-family: Georgia;
+  font-size: 200%;
 }
 a {
   text-decoration: none;
