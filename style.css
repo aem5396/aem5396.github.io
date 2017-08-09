@@ -5,7 +5,7 @@ h1 {
   color: black;
   text-align: center;
   font-family: Georgia;
-  font-size: 300%;
+  font-size: 350%;
   padding: 0;
 }
 p {
@@ -36,5 +36,5 @@ li a {
   text-decoration: none;
   color: black;
   font-family: Georgia;
-  padding: 0 100px 0 100px;
+  padding: 10px 100px 10px 100px;
 }
