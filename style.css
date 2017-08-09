@@ -48,11 +48,11 @@ li.menuli a {
   padding-bottom: 5px;
 }
 .active {
-  background-color: salmon;
+  background-color: #FF6C87;
 }
 li.menuli a:hover {
   background-color: pink;
-  color: #FF6C87;
+  color: salmon;
 }
 h2 {
  text-decoration:none;
