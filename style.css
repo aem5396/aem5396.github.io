@@ -22,7 +22,7 @@ a {
   padding: 0;
   margin-bottom: 0;
 }
-ul {
+.nav {
   list-style-type: none;
   text-align: center;
   overflow: hidden;
