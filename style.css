@@ -29,8 +29,6 @@ ul {
   width: 80%;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 10px;
-  margin-bottom: 10px;
 }
 li a {
   float: left;
@@ -40,8 +38,6 @@ li a {
   color: white;
   font-family: Georgia;
   width: 25%;
-  /*margin-top: 10px;
-  margin-bottom: 10px;*/
 }
 li a:hover {
   color: black;
