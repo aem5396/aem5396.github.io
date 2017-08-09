@@ -46,9 +46,9 @@ li a {
   padding-bottom: 5px;
 }
 .active {
-  background-color: lightcoral;
-  color: salmon;
+  background-color: salmon;
 }
 li a:hover {
   background-color: pink;
+  color: salmon;
 }
