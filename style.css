@@ -17,12 +17,13 @@ ul {
   margin: 0;
   padding: 0;
 }
+li {
+  float: left;
+}
 a {
   display: block;
   padding: 8px;
   color: black;
   font-family: Georgia;
-}
-li{
-  float: left;
+  text-decoration: none;
 }
