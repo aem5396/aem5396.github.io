@@ -36,7 +36,7 @@ ul.menu {
   margin-bottom: 25px;
   padding: 0;
 }
-li a {
+li.menuli a {
   float: left;
   display: block;
   text-decoration: none;
@@ -50,7 +50,7 @@ li a {
 .active {
   background-color: salmon;
 }
-li a:hover {
+li.menuli a:hover {
   background-color: pink;
   color: #FF6C87;
 }
