@@ -9,6 +9,9 @@ h1 {
   font-size: 350%;
   padding: 0;
 }
+a {
+  text-decoration: none;
+}
 p {
   text-align: center;
   font-family: Georgia;
