@@ -69,6 +69,7 @@ h3 {
   margin-top: 0;
   margin-bottom: 0;
   padding: 0;
+  font-weight: 100;
 }
 h4 {
   color: black;
@@ -79,7 +80,7 @@ h4 {
   margin-right: auto;
   margin-top: 0;
   margin-bottom: 0;
-  font-weight: 200;
+  font-weight: 100;
 }
 h5 {
   color: black;
