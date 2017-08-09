@@ -57,3 +57,8 @@ h2 {
  text-color: black;
  font-family: Georgia;
 }
+h3 {
+  text-color: skyblue;
+  font-family: Georgia;
+  font-size: 200%;
+}
