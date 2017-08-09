@@ -33,5 +33,5 @@ li a {
   text-decoration: none;
   color: black;
   font-family: Georgia;
-  padding: 100px;
+  padding: 0 100px 0 100px;
 }
