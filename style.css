@@ -24,7 +24,7 @@ a {
   text-align: center;
   padding: 0;
 }
-ul {
+ul.menu {
   background-color: lightpink;
   list-style-type: none;
   text-align: center;
