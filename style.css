@@ -90,3 +90,8 @@ h5 {
   margin: 0;
   font-weight: 100;
 }
+h6{
+  text-decoration: underline;
+  font-weight: 100;
+  font-size: 200%;
+}
