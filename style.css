@@ -52,7 +52,7 @@ li.menuli a {
 }
 li.menuli a:hover {
   background-color: pink;
-  color: salmon;
+  color: #FF6C87;
 }
 h2 {
  text-decoration:none;
