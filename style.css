@@ -41,7 +41,7 @@ li a {
 }
 li a:hover {
   color: black;
-  background-color: lightpink;
+  background-color: green;
 }
 .active {
   background-color: red;
