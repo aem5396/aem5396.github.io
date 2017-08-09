@@ -41,6 +41,10 @@ li a {
   width: 25%
   /*padding: 10px 100px 10px 100px;*/
 }
+li a:hover {
+  color: black;
+  background-color: blue;
+}
 .active {
   background-color: red;
 }
