@@ -44,6 +44,6 @@ li a {
 .active {
   background-color: red;
 }
-lia a:hover {
+li a:hover {
   background-color: teal;
 }
