@@ -57,6 +57,7 @@ li.menuli a:hover {
 h2 {
  text-decoration:none;
  font-family: Georgia;
+ font-weight: 100;
 }
 h3 {
   color: #FF6C87;
