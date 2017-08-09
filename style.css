@@ -12,6 +12,7 @@ p {
   font-family: Arial;
 }
 li {
+  text-decoration: none;
   color: black;
   text-align: center;
   font-family: Georgia;
