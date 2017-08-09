@@ -34,6 +34,7 @@ li {
   float: left;
 }
 li a {
+  float: left;
   display: block;
   font-size: 200%;
   text-decoration: none;
@@ -43,7 +44,7 @@ li a {
 }
 li a:hover {
   color: black;
-  background-color: orange;
+  background-color: yellow;
 }
 .active {
   background-color: red;
