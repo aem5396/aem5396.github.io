@@ -41,7 +41,8 @@ li a {
   color: white;
   font-family: Georgia;
   width: 25%
-  /*padding: 10px 100px 10px 100px;*/
+  padding-bottom: 10px;
+  padding-top: 10px;
 }
 li a:hover {
   color: black;
