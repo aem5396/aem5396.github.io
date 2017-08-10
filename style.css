@@ -163,6 +163,7 @@ li.blank {
   margin: 0 0 50px 0;
 }
 li.subjpg a {
+  background-color:  yellow;
   float: left;
   display: block;
   width: 25%;
