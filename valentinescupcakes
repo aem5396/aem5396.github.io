@@ -1,0 +1,87 @@
+<!DOCTYPE>
+<html>
+<head>
+  <title>anna bakes cupcakes ⁘ valentine's cupcakes</title>
+  <link href="/style.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+  <p class="logo"><a href="index.html"><img src = "logo.jpg" height = "100" width = "85"></a></p>
+  <h1><a href="index.html">⁘ anna bakes cupcakes ⁘</a></h1>
+  <ul class="menu">
+    <li class="menuli"><a href="cupcakes.html">cupcakes</a></li>
+    <li class="menuli"><a href="cookies.html">cookies</a></li>
+    <li class="menuli"><a href="cake.html">cake</a></li>
+    <li class="menuli"><a href="other.html">other</a></li>
+  </ul>
+
+  <h3>valentine's cupcakes</h3>
+  <h4>chocolate heart-shaped cupcakes with vanilla buttercream frosting</h4>
+  <h4>recipe from <a  target="_blank" href="https://sallysbakingaddiction.com/2014/06/03/classic-chocolate-cupcakes-with-vanilla-frosting/">Sally's Baking Addiction</a></h4>
+  <br>
+  <h5>baked in February 2015</h5>
+  <br>
+  <h5>yield: 12-14 cupcakes</h5>
+  <h5>prep time: 25 minutes</h5>
+  <h5>cook time: 18 minutes</h5>
+  <h5>difficulty level: easy</h5>
+  <br>
+  
+  <p><img class="pic" src = "images/cup3-1.jpg"></p>
+  <p><img class="pic" src = "images/cup3-2.jpg"></p>
+  <p><img class="pic" src = "images/cup3-3.jpg"></p>
+  
+  <h6>Instructions</h6>
+  <h4>Cupcakes</h4>
+  <ul>
+    <li class="ing">1/2 cup unsweetened natural cocoa powder</li>
+    <li class="ing">3/4 cup all-purpose flour (spoon & leveled)</li>
+    <li class="ing">1/2 teaspoon baking soda</li>
+    <li class="ing">3/4 teaspoon baking powder</li>
+    <li class="ing">1/4 teaspoon salt</li>
+    <li class="ing">2 large eggs, at room temperature</li>
+    <li class="ing">1/2 cup granulated sugar</li>
+    <li class="ing">1/2 cup packed light brown sugar</li>
+    <li class="ing">1/3 cup vegetable or canola oil (melted coconut oil works too)</li>
+    <li class="ing">2 teaspoons vanilla extract</li>
+    <li class="ing">1/2 cup buttermilk, room temperature</li>
+  </ul>
+  <br>
+  <h4>Frosting</h4>
+  <ul>
+    <li class="ing">1 cup unsalted butter, softened to room temperature</li>
+    <li class="ing">4 - 5 cups confectioners' sugar</li>
+    <li class="ing">1/4 cup heavy cream</li>
+    <li class="ing">2 teaspoons vanilla extract</li>
+    <li class="ing">salt, to taste</li>
+    <li class="ing">sprinkles</li>
+  </ul>
+  <br>
+  
+  <h6>Directions</h6>
+  <h4>For the cupcakes:</h4>
+  <ol>
+    <li class="step">Preheat the oven to 350°F (177°C). Line a 12-cup muffin pan with cupcake liners. Line a second pan with 2 liners - this recipe makes about 14 cupcakes. Set aside.</li>
+    <li class="step">To make heart-shaped cupcakes: roll up aluminum foil into a ball and place between the cupcake liner and pan. Roll two smaller aluminum foil balls and place on the sides.</li>
+    <li class="step">Whisk the cocoa powder, flour, baking soda, baking powder, and salt together in a large bowl until thoroughly combined. Set aside.</li>
+    <li class="step">In a medium bowl, whisk the eggs, granulated sugar, brown sugar, oil, and vanilla together until completely smooth.</li>
+    <li class="step">Pour half of the wet ingredients into the dry ingredients. Then half of the buttermilk. Gently whisk - about 5 stirs. Repeat with the remaining wet ingredients and buttermilk. Stir until *just* combined; do not overmix. The batter will be a little thin.</li>
+    <li class="step">Pour/spoon the batter into the liners - fill only halfway to avoid spilling over the sides. Bake in batches for 18-21 minutes, or until a toothpick inserted in the center comes out clean. Allow to cool completely before frosting.</li>
+  </ol>
+  <br>
+  <h4>For the frosting:</h4>
+  <ol>
+    <li class="step">With a handheld or stand mixer fitted with a paddle attachment, beat the butter on medium speed until creamy - about 2 minutes.</li>
+     <li class="step">Add 4 and 1/2 cups confectioners' sugar, cream, and vanilla extract with the mixer running on low.</li>
+     <li class="step">Increase to high speed and beat for 3 full minutes.</li>
+     <li class="step">Add up to 1/2 cup more confectioners' sugar if frosting is too thin or another Tablespoon of cream if frosting is too thick. Add a pinch of salt if frosting is too sweet.</li>
+     <li class="step">Frost cooled cupcakes however you'd like.</li>
+  </ol>
+  <br>
+  
+  <h6>Nutrition</h6>
+  <ul>
+    <li class="ing">Total calories: 6,037</li>
+    <li class="ing">Calories per: 503</li>
+  </ul>
+</body>
+</html>
