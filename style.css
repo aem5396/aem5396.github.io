@@ -126,3 +126,8 @@ img {
   max-height: 75%;
   margin: 25px;
 }
+.square {
+  background: "images/cup1-1.jpg" 50% 50% no-repeat; /* 50% 50% centers image in div */
+  width: 250px;
+  height: 250px;
+}
