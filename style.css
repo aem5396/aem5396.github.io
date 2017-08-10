@@ -128,10 +128,10 @@ img {
 ul.sub {
   list-style-type: none;
   overflow: hidden;
-  width: 100%;
+  width: 90%;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 0;
+  margin-top: 25px;
   margin-bottom: 25px;
   padding: 0;
 }
@@ -139,5 +139,5 @@ li.subli a {
   float: left;
   display: block;
   width: 25%;
-  padding: 0;
+  padding: 25px;
 }
