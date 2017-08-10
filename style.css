@@ -127,6 +127,7 @@ img {
 }
 ul.sub {
   list-style-type: none;
+  text-align: center;
   overflow: hidden;
   width: 90%;
   margin-left: auto;
@@ -138,6 +139,12 @@ ul.sub {
 li.subli a {
   float: left;
   display: block;
+  text-decoration: none;
+  color: black;
+  font-family: Georgia;
+  font-size: 200%;
+  font-weight: 100;
   width: 25%;
-  padding: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
