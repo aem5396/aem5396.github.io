@@ -152,7 +152,7 @@ li.blank {
   float: left;
   display: block;
   text-decoration: none;
-  color: black;
+  background-color: pink;
   font-family: Georgia;
   font-size: 150%;
   font-weight: 100;
