@@ -145,6 +145,9 @@ li.subli a {
   font-size: 150%;
   font-weight: 100;
   width: 25%;
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding: 0;
+  margin: 0;
+}
+li.subli a:hover {
+  color: #FF6C87;
 }
