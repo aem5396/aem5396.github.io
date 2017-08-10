@@ -127,7 +127,6 @@ p {
 }
 ul.sub {
   list-style-type: none;
-  vertical-align: middle;
   text-align: center;
   overflow: hidden;
   width: 90%;
