@@ -20,14 +20,15 @@
   <br>
   <h5>baked in DATE</h5>
   <br>
-  <h5>yield: </h5>
+  <h5>yield: cupcakes</h5>
   <h5>prep time: minutes</h5>
   <h5>cook time: minutes</h5>
   <h5>difficulty level: </h5>
   <br>
   
-  <p><img class="pic" src = "/images/-1.jpg"></p>
-  <p><img class="pic" src = "/images/-2.jpg"></p>
+  <p><img class="pic" src = "/images/cup-1.jpg"></p>
+  <p><img class="pic" src = "/images/cup-2.jpg"></p>
+  <p><img class="pic" src = "/images/cup-2.jpg"></p>
   
   <h6>Ingredients</h6>
   <h4>Cupcakes</h4>
@@ -60,7 +61,7 @@
   <h6>Nutrition</h6>
   <ul>
     <li class="ing">Total calories: </li>
-    <li class="ing">Calories per: </li>
+    <li class="ing">Calories per cupcake: </li>
   </ul>
 </body>
 </html>
