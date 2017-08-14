@@ -149,9 +149,7 @@ li.subli a {
   margin: 0 0 50px 0;
 }
 li.subli a img {
-  object-fit: cover;
   height: 200px;
-  width: 200px;
 }
 li.subli a:hover {
   color: #FF6C87;
