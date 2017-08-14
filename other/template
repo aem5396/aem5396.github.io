@@ -31,7 +31,7 @@
   <p><img class="pic" src = "/images/cother-3.jpg"></p>
   
   <h6>Ingredients</h6>
-  <h4>Cupcakes</h4>
+  <h4>OTHER</h4>
   <ul>
     <li class="ing">
   </ul>
@@ -43,7 +43,7 @@
   <br>
   
   <h6>Directions</h6>
-  <h4>For the :</h4>
+  <h4>For the OTHER:</h4>
   <ol>
     <li class="step">
   </ol>
@@ -57,7 +57,7 @@
   <h6>Nutrition</h6>
   <ul>
     <li class="ing">Total calories: </li>
-    <li class="ing">Calories per : </li>
+    <li class="ing">Calories per OTHER: </li>
   </ul>
 </body>
 </html>
