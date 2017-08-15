@@ -82,7 +82,7 @@ li.bottomli a {
   padding-bottom: 5px;
 }
 li.bottomli a:hover {
-  color: pink;
+  color: lightpink;
 }
 li.bottomli a.active {
   color: #FF6C87;
