@@ -1,6 +1,7 @@
 body {
   background-color: white;
 }
+/*Website name*/
 h1 {
   text-decoration: none;
   color: black;
@@ -24,6 +25,8 @@ a {
   text-align: center;
   padding: 0;
 }
+
+/*Top menu*/
 ul.menu {
   background-color: lightpink;
   list-style-type: none;
@@ -54,6 +57,8 @@ li.menuli a:hover {
   background-color: pink;
   color: #FF6C87;
 }
+
+/**/
 h2 {
  text-decoration:none;
  font-family: Georgia;
