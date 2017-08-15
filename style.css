@@ -58,6 +58,31 @@ li.menuli a:hover {
   color: #FF6C87;
 }
 
+ul.bottom {
+  list-style-type: none;
+  text-align: center;
+  overflow: hidden;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 25px;
+  padding: 0;
+}
+li.bottomli a {
+  float: left;
+  display: block;
+  text-decoration: none;
+  font-family: Georgia;
+  font-size: 125%;
+  width: 25%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+li.bottomli a:hover {
+  color: #FF6C87;
+}
+
 /*Extra notes on recipe page*/
 h2 {
   font-family: "Times New Roman";
