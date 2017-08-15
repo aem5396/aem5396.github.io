@@ -58,11 +58,16 @@ li.menuli a:hover {
   color: #FF6C87;
 }
 
-/**/
+/*Extra notes on recipe page*/
 h2 {
- text-decoration:none;
- font-family: Georgia;
- font-weight: 100;
+  font-family: "Times New Roman";
+  font-size: 125%;
+  font-weight: 100;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 h3 {
   color: #FF6C87;
