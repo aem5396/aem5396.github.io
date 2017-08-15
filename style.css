@@ -50,20 +50,21 @@ li.menuli a {
   padding-top: 5px;
   padding-bottom: 5px;
 }
-li.menuli a.active {
-  background-color: #FF6C87;
-}
 li.menuli a:hover {
   background-color: pink;
   color: #FF6C87;
 }
+li.menuli a.active {
+  background-color: #FF6C87;
+}
+
 
 /*Bottom menu*/
 ul.bottom {
   list-style-type: none;
   text-align: center;
   overflow: hidden;
-  width: 80%;
+  width: 60%;
   margin-left: auto;
   margin-right: auto;
   margin-top: 0;
@@ -81,6 +82,9 @@ li.bottomli a {
   padding-bottom: 5px;
 }
 li.bottomli a:hover {
+  color: pink;
+}
+li.bottomli a.active {
   color: #FF6C87;
 }
 
