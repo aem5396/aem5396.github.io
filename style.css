@@ -180,6 +180,9 @@ li.step {
 /*Recipe page picture centering*/
 p {
   text-align: center;
+  font-family: "Times New Roman";
+  font-size: 125%;
+  font-weight: 100;
 }
 
 /*Recipe page pictures*/
