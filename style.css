@@ -85,7 +85,7 @@ li.bottomdot {
   font-family: Georgia;
   font-size: 125%;
   width: 5%;
-  padding: 5px 0 5px 0;
+  padding: 0;
   background-color: yellow;
 }
 li.bottomli a:hover {
