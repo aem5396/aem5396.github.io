@@ -94,6 +94,27 @@ li.bottomli a.active {
   color: #FF6C87;
 }
 
+/*Social media menu*/
+ul.social {
+  list-style-type: none;
+  text-align: center;
+  overflow: hidden;
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  margin: 0;
+  padding: 0;
+}
+li.socialli a {
+  float: left;
+  display: block;
+  width: 50%;
+  padding: 0;
+}
+li.socialli a img {
+  height: 20px;
+}
+
 /*Extra notes on recipe page*/
 h2 {
   font-family: "Times New Roman";
