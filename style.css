@@ -177,18 +177,20 @@ li.step {
   margin-bottom: 0;
 }
 
-/*Recipe page picture centering*/
+/*Recipe page picture and caption*/
 p {
   text-align: center;
   font-family: "Times New Roman";
   font-size: 125%;
   font-weight: 100;
+  margin: 0;
 }
 
 /*Recipe page pictures*/
 .pic {
   max-width: 75%;
   max-height: 75%;
+  margin: 0;
 }
 
 /*Catalog page*/
