@@ -81,6 +81,16 @@ li.bottomli a {
   margin: 5px;
   background-color: yellow;
 }
+li.bottomli {
+  float: left;
+  display: block;
+  font-family: Georgia;
+  font-size: 125%;
+  width: 10%;
+  padding: 5px 0 5px 0;
+  margin: 5px;
+  background-color: yellow;
+}
 li.bottomli a:hover {
   color: lightpink;
 }
