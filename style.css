@@ -78,7 +78,6 @@ li.bottomli a {
   font-size: 125%;
   width: 10%;
   padding: 5px 0 5px 0;
-  margin: 5px;
   background-color: yellow;
 }
 li.bottomli {
@@ -88,7 +87,6 @@ li.bottomli {
   font-size: 125%;
   width: 10%;
   padding: 5px 0 5px 0;
-  margin: 5px;
   background-color: yellow;
 }
 li.bottomli a:hover {
