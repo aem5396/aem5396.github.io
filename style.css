@@ -50,14 +50,13 @@ li.menuli a {
   padding-top: 5px;
   padding-bottom: 5px;
 }
+li.menuli a.active {
+  background-color: #FF6C87;
+}
 li.menuli a:hover {
   background-color: pink;
   color: #FF6C87;
 }
-li.menuli a.active {
-  background-color: #FF6C87;
-}
-
 
 /*Bottom menu*/
 ul.bottom {
