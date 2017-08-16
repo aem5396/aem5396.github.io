@@ -77,8 +77,8 @@ li.bottomli a {
   font-family: Georgia;
   font-size: 125%;
   width: 11%;
-  padding-top: 5px;
-  padding-bottom: 5px;
+  padding: 5px 0 5px 0;
+  margin: 0;
 }
 li.bottomli a:hover {
   color: lightpink;
