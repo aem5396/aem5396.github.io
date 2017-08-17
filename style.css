@@ -140,6 +140,19 @@ h3 {
   padding: 0;
 }
 
+.alphabet {
+  color: #FF6C87;
+  font-family: Georgia;
+  font-size: 200%;
+  font-weight: 100;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0;
+}
+
 /*Recipe Details-left*/
 h4 {
   font-family: "Times New Roman";
