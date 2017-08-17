@@ -140,7 +140,8 @@ h3 {
   padding: 0;
 }
 
-.alphabet {
+/*Section headers for ingredients and nutrition pages*/
+h3.alphabet {
   color: #FF6C87;
   font-family: Georgia;
   font-size: 200%;
