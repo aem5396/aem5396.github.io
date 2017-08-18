@@ -45,7 +45,7 @@ li.menuli a {
   text-decoration: none;
   color: white;
   font-family: Georgia;
-  font-size: 2vw;
+  font-size: 1.5vw;
   width: 16.66%;
   padding-top: 5px;
   padding-bottom: 5px;
@@ -75,7 +75,7 @@ li.bottomli a {
   display: block;
   text-decoration: none;
   font-family: Georgia;
-  font-size: 125%;
+  font-size: 1vw%;
   width: 13%;
   padding: 5px 0 5px 0;
 }
