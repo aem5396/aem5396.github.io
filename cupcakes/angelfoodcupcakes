@@ -1,0 +1,105 @@
+<!DOCTYPE>
+<html>
+<head>
+  <title>anna bakes cupcakes ⁘ angel food cupcakes</title>
+  <link href="/style.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+  <p class="logo"><a href="/index.html"><img src = "/logo.jpg" height = "100" width = "85"></a></p>
+  <h1><a href="/index.html">⁘ anna bakes cupcakes ⁘</a></h1>
+  <ul class="menu">
+    <li class="menuli"><a href="/cupcakes.html">cupcakes</a></li>
+    <li class="menuli"><a href="/cookies.html">cookies</a></li>
+    <li class="menuli"><a href="/cakes.html">cakes</a></li>
+    <li class="menuli"><a href="/other.html">other</a></li>
+    <li class="menuli"><a href="/ingredients.html">ingredients</a></li>
+    <li class="menuli"><a href="/nutrition.html">nutrition</a></li>
+  </ul>
+
+  <h3>angel food cupcakes</h3>
+  <h4>light angel food cupcakes with whipped cream cheese frosting</h4>
+  <h4>recipe from <a  target="_blank" href="http://www.cookingclassy.com/angel-food-cupcakes/">Cooking Classy</a></h4>
+  <br>
+  <h5>baked in February 2017</h5>
+  <br>
+  <h5>yield: 16 cupcakes</h5>
+  <h5>prep time: 25 minutes</h5>
+  <h5>cook time: 18 minutes</h5>
+  <h5>difficulty level: medium</h5>
+  <br>
+  
+  <p><img class="pic" src = "/images/cup22-1.jpg"></p>
+  <p><img class="pic" src = "/images/cup22-2.jpg"></p>
+  
+  <h6>Ingredients</h6>
+  <h4>Cupcakes</h4>
+  <ul>
+    <li class="ing">3/4 cup + 2 Tablespoons granulated sugar</li>
+    <li class="ing">1/2 cup cake flour</li>
+    <li class="ing">1/4 teaspoon salt</li>
+    <li class="ing">6 egg whites , at room temperature</li>
+    <li class="ing">2 and 1/2 Tablespoons warm water</li>
+    <li class="ing">1/2 teaspoon vanilla , coconut, almond or orange extract</li>
+    <li class="ing">3/4 teaspoon cream of tartar</li>
+  </ul>
+  <br>
+  <h4>Frosting</h4>
+  <ul>
+    <li class="ing">1 and 1/2 cups heavy whipping cream</li>
+    <li class="ing">6 ounces cream cheese , at room temperature</li>
+    <li class="ing">1/2 cup powdered sugar</li>
+    <li class="ing">Fresh strawberries , blueberries or raspberries</li>
+  </ul>
+  <br>
+
+  <h6>Directions</h6>
+  <h4>For the cupcakes:</h4>
+  <ol>
+    <li class="step">Preheat oven to 350°F.
+    <li class="step">In a food processor, pulse sugar until super fine, about 2 minutes (if you don't have a food processor caster sugar should also work).</li>
+    <li class="step">In a mixing bowl, sift together half of the sugar, the cake flour and the salt.</li>
+    <li class="step">In a large mixing bowl, whisk together egg whites, water, extract of choice and cream of tartar until well combined, about 2 minutes.</li>
+    <li class="step">Switch to a hand mixer and whip mixture on medium speed while slowly adding remaining sugar to mixture, until medium peaks form.</li>
+    <li class="step">Sift just enough of the flour mixture in to evenly dust the top of the egg white mixture and using a spatula gently fold flour layer into egg white mixture and continue this process until all of the flour mixture has been incorporated (repeat around 12 times).</li>
+    <li class="step">Divide batter among paper lined muffin cups, filling each cup nearly full.</li>
+    <li class="step">Bake in preheated oven 18 - 20 minutes until golden and toothpick inserted into center comes out clean.</li>
+    <li class="step">Cool completely then spread whipped cream cheese frosting over cupcakes just before serving and top with fresh fruit.</li>
+  </ol>
+  <br>
+  <h4>For the frosting:</h4>
+  <ol>
+    <li class="step">In a mixing bowl whip heavy cream until soft peaks form.</li>
+    <li class="step">In a separate mixing bowl, whip cream cheese until light and fluffy.</li>
+    <li class="step">Add cream cheese to whipped cream along with powdered sugar and whip until stiff peaks form.</li>
+  </ol>
+  <br>
+  
+  <h6>Nutrition</h6>
+  <ul>
+    <li class="ing">Total calories: </li>
+    <li class="ing">Calories per cupcake: </li>
+  </ul>
+  
+  <ul class="bottom">
+    <li class="bottomli"><a href="javascript:window.location.href=window.location.href">top</a></li>
+    <li class="bottomdot">⁘</li>
+    <li class="bottomli"><a href="/cupcakes.html">cupcakes</a></li>
+    <li class="bottomdot">⁘</li>
+    <li class="bottomli"><a href="/cookies.html">cookies</a></li>
+    <li class="bottomdot">⁘</li>
+    <li class="bottomli"><a href="/cakes.html">cakes</a></li>
+    <li class="bottomdot">⁘</li>
+    <li class="bottomli"><a href="/other.html">other</a></li>
+    <li class="bottomdot">⁘</li>
+    <li class="bottomli"><a href="/ingredients.html">ingredients</a></li>
+    <li class="bottomdot">⁘</li>
+    <li class="bottomli"><a href="/nutrition.html">nutrition</a></li>
+  </ul>
+  
+  <ul class="social">
+    <li class="socialli"><a target="_blank" href="https://www.pinterest.com/annabakescupc/"><img src="/pinterest.jpg"></a></li>
+    <li class="socialli"><a target="_blank" href="https://www.instagram.com/annabakescupcakes/"><img src="/instagram.jpg"></a></li>
+  </ul>
+  
+</body>
+</html>
