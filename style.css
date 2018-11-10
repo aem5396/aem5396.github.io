@@ -176,7 +176,7 @@ h5 {
 }
 
 /*Recipe page section names*/
-h6{
+h6 {
   text-decoration: underline;
   font-size: 200%;
   font-weight: 100;
@@ -197,6 +197,10 @@ li.ing {
   margin-right: auto;
   margin-top: 0;
   margin-bottom: 0;
+}
+
+li.ing a:hover {
+  color: #FF6C87;
 }
 
 /*Step list*/
