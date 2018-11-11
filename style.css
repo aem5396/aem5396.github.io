@@ -203,6 +203,33 @@ li.ing a:hover {
   color: #FF6C87;
 }
 
+/*Ingredients page alphabetic menu*/
+ul.alphamenu {
+  list-style-type: none;
+  text-align: center;
+  overflow: hidden;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 25px;
+  padding: 0;
+}
+li.alphamenu a {
+  float: left;
+  display: block;
+  text-decoration: none;
+  color: black;
+  font-family: Georgia;
+  font-size: 1.8vw;
+  width: 16.66%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+li.alphamenu a:hover {
+  color: #FF6C87;
+}
+
 /*Step list*/
 li.step {
   font-family: "Times New Roman";
