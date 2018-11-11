@@ -215,7 +215,7 @@ ul.alphamenu {
   margin-bottom: 25px;
   padding: 0;
 }
-li.alphamenu a {
+li.alphamenuli a {
   float: left;
   display: block;
   text-decoration: none;
@@ -226,7 +226,7 @@ li.alphamenu a {
   padding-top: 5px;
   padding-bottom: 5px;
 }
-li.alphamenu a:hover {
+li.alphamenuli a:hover {
   color: #FF6C87;
 }
 
