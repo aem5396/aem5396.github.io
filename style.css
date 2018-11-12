@@ -247,7 +247,7 @@ li.step {
 p {
   text-align: center;
   font-family: "Times New Roman";
-  font-size: 125%;
+  font-size: 6vw;
   font-weight: 100;
   margin: 0 0 20px 0;
   padding: 0;
@@ -255,7 +255,7 @@ p {
 
 /*Recipe page pictures*/
 .pic {
-  width: 500px;
+  width: 6vw;
   margin: 0;
   padding: 0;
 }
