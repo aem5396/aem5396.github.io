@@ -19,12 +19,14 @@ a {
 }
 .logo {
   text-align: center;
+  width: 6vw;
   padding: 0;
   margin-bottom: 0;
 }
 .coverimg {
   text-align: center;
   padding: 0;
+  width: 6vw;
 }
 
 /*Top menu*/
