@@ -8,7 +8,7 @@ h1 {
   font-family: Georgia;
   font-size: 6vw;
   text-align: center;
-  width: 80%
+  width: 60%
   padding: 0;
   margin-top: 0;
   margin-bottom: 50px;
@@ -112,7 +112,7 @@ li.socialli a {
   padding: 0;
 }
 li.socialli a img {
-  width: 6vw;
+  width: 3vw;
 }
 
 /*Extra notes on recipe page*/
