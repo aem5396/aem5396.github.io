@@ -16,7 +16,7 @@
     <li class="menuli"><a href="/nutrition.html">nutrition</a></li>
   </ul>
   
-  <h3>CALORIES</h3>
+  <h3 class="ingrednutrit">CALORIES</h3>
   
   <ul class="sub">
     
