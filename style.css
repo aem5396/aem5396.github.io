@@ -24,7 +24,8 @@ a {
 }
 .coverimg {
   text-align: center;
-  font-size: 6vw;
+  width: 70vw;
+  margin: 0;
   padding: 0;
 }
 
