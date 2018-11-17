@@ -16,6 +16,8 @@ h1 {
 a {
   text-decoration: none;
   color: black;
+  padding: 0;
+  margin: 0;
 }
 .logo {
   text-align: center;
